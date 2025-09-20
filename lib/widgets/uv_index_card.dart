@@ -1,5 +1,5 @@
-import 'package:first/services/uv_index_service.dart';
-import 'package:first/utils/app_theme.dart';
+import 'package:RainRain/services/uv_index_service.dart';
+import 'package:RainRain/utils/app_theme.dart';
 import 'package:flutter/material.dart';
 
 class UvIndexCard extends StatelessWidget {

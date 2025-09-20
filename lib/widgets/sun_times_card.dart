@@ -1,5 +1,5 @@
-import 'package:first/services/sun_times_service.dart';
-import 'package:first/utils/app_theme.dart';
+import 'package:RainRain/services/sun_times_service.dart';
+import 'package:RainRain/utils/app_theme.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 

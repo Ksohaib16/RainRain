@@ -1,5 +1,5 @@
-import 'package:first/pages/weather_screen.dart';
-import 'package:first/widgets/splash_screen.dart';
+import 'package:RainRain/pages/weather_screen.dart';
+import 'package:RainRain/widgets/splash_screen.dart';
 import 'package:flutter/material.dart';
 
 class AppRoutes {

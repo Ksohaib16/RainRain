@@ -1,5 +1,5 @@
-import 'package:first/routes/app_routes.dart';
-import 'package:first/utils/app_theme.dart';
+import 'package:RainRain/routes/app_routes.dart';
+import 'package:RainRain/utils/app_theme.dart';
 import 'package:flutter/material.dart';
 
 class MyApp extends StatelessWidget {

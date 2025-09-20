@@ -1,5 +1,5 @@
-import 'package:first/services/air_quality_service.dart';
-import 'package:first/utils/app_theme.dart';
+import 'package:RainRain/services/air_quality_service.dart';
+import 'package:RainRain/utils/app_theme.dart';
 import 'package:flutter/material.dart';
 
 class AirQualityCard extends StatelessWidget {
